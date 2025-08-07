@@ -1,0 +1,293 @@
+city,state,avg_aqi,unhealthy_pct,vp_severe_pct,Hotspot_Category
+Agartala,Tripura,127,48,3.2,Emerging Hotspot
+Agra,Uttar Pradesh,84,30.4,0,Emerging Hotspot
+Ahmedabad,Gujarat,114,59.3,0,Established Hotspot
+Ahmednagar,Maharashtra,122,57.5,0,Established Hotspot
+Aizawl,Mizoram,47,7,0,Not Hotspot
+Ajmer,Rajasthan,101,41.9,0,Emerging Hotspot
+Akola,Maharashtra,94,42.3,0.6,Emerging Hotspot
+Alwar,Rajasthan,90,25.6,0,Emerging Hotspot
+Amaravati,Andhra Pradesh,69,17.8,0,Not Hotspot
+Ambala,Haryana,111,47.2,0.9,Emerging Hotspot
+Amravati,Maharashtra,91,41.2,0.1,Emerging Hotspot
+Amritsar,Punjab,122,55.3,0.9,Established Hotspot
+Anantapur,Andhra Pradesh,67,8.1,0,Not Hotspot
+Angul,Odisha,164,71.1,7.1,Established Hotspot
+Ankleshwar,Gujarat,109,46,0.1,Emerging Hotspot
+Araria,Bihar,165,69.1,11.6,Established Hotspot
+Ariyalur,Tamil Nadu,52,5.7,0,Not Hotspot
+Arrah,Bihar,154,64.7,10.6,Established Hotspot
+Asansol,West Bengal,145,64.1,4.5,Established Hotspot
+Aurangabad,Bihar,122,55,3.1,Established Hotspot
+Aurangabad,Maharashtra,122,55,3.1,Established Hotspot
+Baddi,Himachal Pradesh,160,77.5,5.1,Established Hotspot
+Badlapur,Maharashtra,117,56.6,0.6,Established Hotspot
+Bagalkot,Karnataka,46,0,0,Not Hotspot
+Baghpat,Uttar Pradesh,157,71.5,5.4,Established Hotspot
+Bahadurgarh,Haryana,165,68.3,8.5,Established Hotspot
+Balasore,Odisha,141,59.2,5,Established Hotspot
+Ballabgarh,Haryana,156,65.8,6.1,Established Hotspot
+Banswara,Rajasthan,117,59.1,0.4,Established Hotspot
+Baran,Rajasthan,114,55.8,0.2,Established Hotspot
+Barbil,Odisha,144,72.6,0.8,Established Hotspot
+Bareilly,Uttar Pradesh,77,24.6,0,Not Hotspot
+Baripada,Odisha,125,56.1,2,Established Hotspot
+Barmer,Rajasthan,105,47.4,0.5,Emerging Hotspot
+Barrackpore,West Bengal,134,54,3.2,Established Hotspot
+Bathinda,Punjab,109,45.1,2.7,Emerging Hotspot
+Begusarai,Bihar,207,75.4,24.7,Severe Hotspot
+Belapur,Maharashtra,101,51.6,0,Established Hotspot
+Belgaum,Karnataka,70,14.6,0,Not Hotspot
+Bengaluru,Karnataka,75,12.7,0,Not Hotspot
+Bettiah,Bihar,162,67.2,11.9,Established Hotspot
+Bhagalpur,Bihar,165,66.2,13.5,Established Hotspot
+Bharatpur,Rajasthan,137,65.1,3.6,Established Hotspot
+Bhilai,Chhattisgarh,72,17.1,0,Not Hotspot
+Bhilwara,Rajasthan,113,49,1,Emerging Hotspot
+Bhiwadi,Rajasthan,182,81.5,10.4,Severe Hotspot
+Bhiwandi,Maharashtra,108,51.4,0,Established Hotspot
+Bhiwani,Haryana,141,61.1,4.8,Established Hotspot
+Bhopal,Madhya Pradesh,119,58.3,0.4,Established Hotspot
+Bhubaneswar,Odisha,124,47.8,1.9,Emerging Hotspot
+Bidar,Karnataka,81,22.5,0,Not Hotspot
+Bihar Sharif,Bihar,135,58.4,7.4,Established Hotspot
+Bikaner,Rajasthan,157,79.2,4.9,Established Hotspot
+Bilaspur,Chhattisgarh,69,11.3,0,Not Hotspot
+Bileipada,Odisha,151,78,1.8,Established Hotspot
+Boisar,Maharashtra,100,45.6,0,Emerging Hotspot
+Brajrajnagar,Odisha,87,29.5,0,Emerging Hotspot
+Bulandshahr,Uttar Pradesh,148,71.3,2.7,Established Hotspot
+Bundi,Rajasthan,133,71.7,1.2,Established Hotspot
+Buxar,Bihar,152,66.3,8.1,Established Hotspot
+Byasanagar,Odisha,131,58.5,1,Established Hotspot
+Byrnihat,Assam,240,89.2,30,Severe Hotspot
+Chamarajanagar,Karnataka,43,0,0,Not Hotspot
+Chandigarh,Chandigarh,142,66,4.2,Established Hotspot
+Chandrapur,Maharashtra,108,49.7,0.6,Emerging Hotspot
+Charkhi Dadri,Haryana,155,69.7,4.8,Established Hotspot
+Chengalpattu,Tamil Nadu,82,18.7,0.5,Not Hotspot
+Chennai,Tamil Nadu,74,13.3,0,Not Hotspot
+Chhal,Chhattisgarh,76,17.4,0,Not Hotspot
+Chhapra,Bihar,176,68.4,16.2,Established Hotspot
+Chikkaballapur,Karnataka,64,15.3,0,Not Hotspot
+Chikkamagaluru,Karnataka,47,0.9,0,Not Hotspot
+Chittoor,Andhra Pradesh,74,17.3,0.2,Not Hotspot
+Chittorgarh,Rajasthan,129,65.8,1.2,Established Hotspot
+Churu,Rajasthan,139,62.2,4.2,Established Hotspot
+Coimbatore,Tamil Nadu,70,16.8,0.3,Not Hotspot
+Cuddalore,Tamil Nadu,65,16.2,0.1,Not Hotspot
+Cuttack,Odisha,128,50.2,3.1,Established Hotspot
+Damoh,Madhya Pradesh,59,12.3,0,Not Hotspot
+Darbhanga,Bihar,190,63.3,27,Established Hotspot
+Dausa,Rajasthan,143,74.7,2.2,Established Hotspot
+Davanagere,Karnataka,57,8.5,0,Not Hotspot
+Dehradun,Uttarakhand,98,37,0.3,Emerging Hotspot
+Delhi,Delhi,206,82.8,21.3,Severe Hotspot
+Dewas,Madhya Pradesh,103,50.3,0.5,Established Hotspot
+Dhanbad,Jharkhand,173,93.2,4.2,Established Hotspot
+Dharuhera,Haryana,186,79.3,12.4,Severe Hotspot
+Dharwad,Karnataka,74,10.3,0,Not Hotspot
+Dholpur,Rajasthan,141,59.1,7.8,Established Hotspot
+Dhule,Maharashtra,103,49.8,0,Emerging Hotspot
+Dindigul,Tamil Nadu,99,33.1,4.1,Emerging Hotspot
+Dungarpur,Rajasthan,104,42.3,0,Emerging Hotspot
+Durgapur,West Bengal,138,66.5,2.8,Established Hotspot
+Eloor,Kerala,63,0.2,0,Not Hotspot
+Ernakulam,Kerala,47,0.5,0,Not Hotspot
+Faridabad,Haryana,182,78.7,11.5,Severe Hotspot
+Fatehabad,Haryana,146,70.8,4.9,Established Hotspot
+Firozabad,Uttar Pradesh,88,28.5,0.1,Emerging Hotspot
+Gadag,Karnataka,55,3.1,0.6,Not Hotspot
+Gandhi Nagar,Gujarat,94,36.6,0,Emerging Hotspot
+Gangtok,Sikkim,54,6.5,0,Not Hotspot
+Gaya,Bihar,126,57.2,3,Established Hotspot
+Ghaziabad,Uttar Pradesh,183,79.8,12,Severe Hotspot
+Gorakhpur,Uttar Pradesh,101,49.2,0,Emerging Hotspot
+Greater Noida,Uttar Pradesh,202,84.7,15.1,Severe Hotspot
+Gummidipoondi,Tamil Nadu,107,46.8,0.2,Emerging Hotspot
+Gurugram,Haryana,191,85.4,10.3,Severe Hotspot
+Guwahati,Assam,120,44,2.3,Emerging Hotspot
+Gwalior,Madhya Pradesh,145,67.9,4.8,Established Hotspot
+Hajipur,Bihar,165,68.7,6.8,Established Hotspot
+Haldia,West Bengal,87,33.1,0.4,Emerging Hotspot
+Hanumangarh,Rajasthan,178,79.5,13.4,Severe Hotspot
+Hapur,Uttar Pradesh,137,55.7,5.9,Established Hotspot
+Hassan,Karnataka,63,6.8,0,Not Hotspot
+Haveri,Karnataka,68,12.9,0,Not Hotspot
+Hisar,Haryana,151,68.2,5.1,Established Hotspot
+Hosur,Tamil Nadu,86,28.9,0,Emerging Hotspot
+Howrah,West Bengal,120,44.8,2,Emerging Hotspot
+Hubballi,Karnataka,72,15.6,0,Not Hotspot
+Hyderabad,Telangana,81,19.7,0,Not Hotspot
+Imphal,Manipur,101,47,0.6,Emerging Hotspot
+Indore,Madhya Pradesh,98,38.3,0,Emerging Hotspot
+Jabalpur,Madhya Pradesh,112,50.1,0.8,Established Hotspot
+Jaipur,Rajasthan,131,68.3,0.6,Established Hotspot
+Jaisalmer,Rajasthan,128,64.5,2.2,Established Hotspot
+Jalandhar,Punjab,110,48.6,0.2,Emerging Hotspot
+Jalgaon,Maharashtra,111,53.9,0.3,Established Hotspot
+Jalna,Maharashtra,110,50,0.9,Emerging Hotspot
+Jalore,Rajasthan,128,69.3,1.4,Established Hotspot
+Jhalawar,Rajasthan,107,46.1,0.5,Emerging Hotspot
+Jhansi,Uttar Pradesh,93,37.5,0,Emerging Hotspot
+Jhunjhunu,Rajasthan,151,73.6,4.2,Established Hotspot
+Jind,Haryana,141,56.8,7,Established Hotspot
+Jodhpur,Rajasthan,127,67.3,0.4,Established Hotspot
+Jorapokhar,Jharkhand,145,89.3,0,Emerging Hotspot
+Kadapa,Andhra Pradesh,67,12.8,0,Not Hotspot
+Kaithal,Haryana,139,59.3,5.2,Established Hotspot
+Kalaburagi,Karnataka,64,12.8,0,Not Hotspot
+Kalyan,Maharashtra,109,53.1,0.3,Established Hotspot
+Kanchipuram,Tamil Nadu,57,5.8,0.2,Not Hotspot
+Kannur,Kerala,66,1,0,Not Hotspot
+Kanpur,Uttar Pradesh,112,53,0.4,Established Hotspot
+Karauli,Rajasthan,108,43.4,3.4,Emerging Hotspot
+Karnal,Haryana,109,44.6,1.6,Emerging Hotspot
+Karur,Tamil Nadu,69,10.3,0,Not Hotspot
+Karwar,Karnataka,58,6.5,0,Not Hotspot
+Kashipur,Uttarakhand,98,43.1,0,Emerging Hotspot
+Katihar,Bihar,162,64.6,13.4,Established Hotspot
+Katni,Madhya Pradesh,124,59.2,0.4,Established Hotspot
+Keonjhar,Odisha,112,46.8,1.7,Emerging Hotspot
+Khanna,Punjab,100,40.5,0.1,Emerging Hotspot
+Khurja,Uttar Pradesh,125,58.9,1.1,Established Hotspot
+Kishanganj,Bihar,140,60.6,4.6,Established Hotspot
+Kochi,Kerala,100,37.7,0,Emerging Hotspot
+Kohima,Nagaland,80,25,0,Not Hotspot
+Kolar,Karnataka,76,20.3,0.2,Not Hotspot
+Kolhapur,Maharashtra,92,37.1,0.1,Emerging Hotspot
+Kolkata,West Bengal,102,37.4,0.5,Emerging Hotspot
+Kollam,Kerala,79,14.6,0,Not Hotspot
+Koppal,Karnataka,69,14.2,0.1,Not Hotspot
+Korba,Chhattisgarh,73,18.3,0,Not Hotspot
+Kota,Rajasthan,131,63.5,1.8,Established Hotspot
+Kozhikode,Kerala,67,0.4,0,Not Hotspot
+Kunjemura,Chhattisgarh,109,52.7,0.5,Established Hotspot
+Kurukshetra,Haryana,135,56.4,3.2,Established Hotspot
+Latur,Maharashtra,86,32.3,0,Emerging Hotspot
+Lucknow,Uttar Pradesh,131,62.6,0.4,Established Hotspot
+Ludhiana,Punjab,128,59.2,1.3,Established Hotspot
+Madikeri,Karnataka,38,0.8,0,Not Hotspot
+Madurai,Tamil Nadu,56,2.1,0,Not Hotspot
+Mahad,Maharashtra,93,43.5,0,Emerging Hotspot
+Maihar,Madhya Pradesh,53,3.5,0,Not Hotspot
+Malegaon,Maharashtra,112,58.9,0,Established Hotspot
+Mandi Gobindgarh,Punjab,147,69.2,3.1,Established Hotspot
+Mandideep,Madhya Pradesh,122,57.8,0.5,Established Hotspot
+Mandikhera,Haryana,91,38.1,0.2,Emerging Hotspot
+Manesar,Haryana,152,62.6,7,Established Hotspot
+Mangalore,Karnataka,70,15.4,0,Not Hotspot
+Manguraha,Bihar,102,41.9,1,Emerging Hotspot
+Meerut,Uttar Pradesh,158,69.9,6.7,Established Hotspot
+Milupara,Chhattisgarh,73,15.7,0,Not Hotspot
+Mira Bhayandar,Maharashtra,97,45.8,0,Emerging Hotspot
+Moradabad,Uttar Pradesh,104,51.3,0.1,Established Hotspot
+Motihari,Bihar,139,57.6,7,Established Hotspot
+Mumbai,Maharashtra,106,45.5,0,Emerging Hotspot
+Munger,Bihar,159,74,6.7,Established Hotspot
+Muzaffarnagar,Uttar Pradesh,176,76.3,9.1,Established Hotspot
+Muzaffarpur,Bihar,161,65.6,8.6,Established Hotspot
+Mysuru,Karnataka,51,0,0,Not Hotspot
+Nagaon,Assam,111,43.7,2.1,Emerging Hotspot
+Nagapattinam,Tamil Nadu,51,4.1,0,Not Hotspot
+Nagaur,Rajasthan,135,70.4,2,Established Hotspot
+Nagpur,Maharashtra,111,49.3,0.8,Emerging Hotspot
+Naharlagun,Arunachal Pradesh,54,8.8,0,Not Hotspot
+Nalbari,Assam,144,62.1,4.4,Established Hotspot
+Namakkal,Tamil Nadu,60,0,0,Not Hotspot
+Nanded,Maharashtra,103,50.9,0,Established Hotspot
+Nandesari,Gujarat,108,48.6,0.2,Emerging Hotspot
+Narnaul,Haryana,117,51.7,3,Established Hotspot
+Nashik,Maharashtra,85,31.2,0,Emerging Hotspot
+Navi Mumbai,Maharashtra,123,58,1.9,Established Hotspot
+Nayagarh,Odisha,118,55.7,1.1,Established Hotspot
+NOIDA,Uttar Pradesh,184,78.8,13.9,Severe Hotspot
+Ooty,Tamil Nadu,61,7.3,0,Not Hotspot
+Pali,Rajasthan,125,62.4,1,Established Hotspot
+Palkalaiperur,Tamil Nadu,43,0.4,0,Not Hotspot
+Palwal,Haryana,93,36.2,0.3,Emerging Hotspot
+Panchgaon,Haryana,130,80,0,Emerging Hotspot
+Panchkula,Haryana,112,48.6,0.7,Emerging Hotspot
+Panipat,Haryana,128,59.5,2.5,Established Hotspot
+Parbhani,Maharashtra,110,51.5,0.7,Established Hotspot
+Pathardih,Jharkhand,104,65.4,0,Established Hotspot
+Patiala,Punjab,103,45.5,0.4,Emerging Hotspot
+Patna,Bihar,180,74.7,11.6,Established Hotspot
+Pimpri Chinchwad,Maharashtra,94,40.9,0,Emerging Hotspot
+Pithampur,Madhya Pradesh,118,62.2,0.2,Established Hotspot
+Pratapgarh,Rajasthan,100,44.7,0.1,Emerging Hotspot
+Prayagraj,Uttar Pradesh,93,37.3,0,Emerging Hotspot
+Puducherry,Puducherry,57,5.2,0,Not Hotspot
+Pudukottai,Tamil Nadu,67,16,0,Not Hotspot
+Pune,Maharashtra,112,60,0.2,Established Hotspot
+Purnia,Bihar,162,62.7,11.5,Established Hotspot
+Raichur,Karnataka,94,46.8,0,Emerging Hotspot
+Raipur,Chhattisgarh,80,25.4,0,Emerging Hotspot
+Rairangpur,Odisha,117,52.8,0.9,Established Hotspot
+Rajamahendravaram,Andhra Pradesh,77,22.5,0.2,Not Hotspot
+Rajgir,Bihar,146,57.9,11.5,Established Hotspot
+Rajsamand,Rajasthan,97,33.3,0.3,Emerging Hotspot
+Ramanagara,Karnataka,61,7,0,Not Hotspot
+Ramanathapuram,Tamil Nadu,48,4.9,0,Not Hotspot
+Ranipet,Tamil Nadu,82,30.1,0,Emerging Hotspot
+Ratlam,Madhya Pradesh,103,54,0,Established Hotspot
+Rishikesh,Uttarakhand,66,12.4,0,Not Hotspot
+Rohtak,Haryana,150,60.2,7.1,Established Hotspot
+Rourkela,Odisha,131,64.3,0.8,Established Hotspot
+Rupnagar,Punjab,126,64.6,0.7,Established Hotspot
+Sagar,Madhya Pradesh,91,30.6,0.3,Emerging Hotspot
+Saharsa,Bihar,170,68,15.8,Established Hotspot
+Salem,Tamil Nadu,73,14.2,0,Not Hotspot
+Samastipur,Bihar,171,74.4,13.6,Established Hotspot
+Sangli,Maharashtra,85,39.5,0,Emerging Hotspot
+Sasaram,Bihar,135,60.2,6,Established Hotspot
+Satna,Madhya Pradesh,76,15,0,Not Hotspot
+Sawai Madhopur,Rajasthan,121,59.9,0.1,Established Hotspot
+Shillong,Meghalaya,63,17.7,0.1,Not Hotspot
+Shivamogga,Karnataka,55,0.3,0,Not Hotspot
+Sikar,Rajasthan,139,68.7,1.7,Established Hotspot
+Silchar,Assam,47,0,0,Not Hotspot
+Siliguri,West Bengal,86,31.3,0,Emerging Hotspot
+Singrauli,Madhya Pradesh,165,70.4,7.8,Established Hotspot
+Sirohi,Rajasthan,90,28.7,0.9,Emerging Hotspot
+Sirsa,Haryana,126,54.8,2.5,Established Hotspot
+Sivasagar,Assam,48,0,0,Not Hotspot
+Siwan,Bihar,181,79.3,16.1,Severe Hotspot
+Solapur,Maharashtra,97,48.2,0,Emerging Hotspot
+Sonipat,Haryana,156,66.6,8.1,Established Hotspot
+Sri Ganganagar,Rajasthan,198,88.3,12.1,Severe Hotspot
+Sri Vijaya Puram,Andaman and Nicobar Islands,58,6.9,0,Not Hotspot
+Srinagar,Jammu and Kashmir,69,15.1,0,Not Hotspot
+Suakati,Odisha,121,56.4,0.4,Established Hotspot
+Surat,Gujarat,117,39.7,2.3,Emerging Hotspot
+Talcher,Odisha,130,51,3.3,Established Hotspot
+Tensa,Odisha,97,39.7,0.4,Emerging Hotspot
+Thane,Maharashtra,109,50.7,0,Established Hotspot
+Thanjavur,Tamil Nadu,45,0.6,0,Not Hotspot
+Thiruvananthapuram,Kerala,54,3.4,0,Not Hotspot
+Thoothukudi,Tamil Nadu,58,5.1,0,Not Hotspot
+Thrissur,Kerala,65,9.6,0,Not Hotspot
+Tiruchirappalli,Tamil Nadu,61,4.1,0.5,Not Hotspot
+Tirumala,Andhra Pradesh,76,17,0,Not Hotspot
+Tirunelveli,Tamil Nadu,32,0,0,Not Hotspot
+Tirupati,Andhra Pradesh,68,12.9,0.1,Not Hotspot
+Tiruppur,Tamil Nadu,77,24,0,Not Hotspot
+Tonk,Rajasthan,143,72.4,3,Established Hotspot
+Tumakuru,Karnataka,103,52.4,0,Established Hotspot
+Tumidih,Chhattisgarh,91,37.4,0,Emerging Hotspot
+Udaipur,Rajasthan,110,53.3,0.2,Established Hotspot
+Udupi,Karnataka,70,11.9,0,Not Hotspot
+Ujjain,Madhya Pradesh,120,57.1,0.6,Established Hotspot
+Ulhasnagar,Maharashtra,119,56.3,0.7,Established Hotspot
+Vapi,Gujarat,136,55.6,5.3,Established Hotspot
+Varanasi,Uttar Pradesh,67,14.2,0,Not Hotspot
+Vatva,Gujarat,105,46.5,0,Emerging Hotspot
+Vellore,Tamil Nadu,74,17.5,0,Not Hotspot
+Vijayapura,Karnataka,50,5,0,Not Hotspot
+Vijayawada,Andhra Pradesh,72,8.9,0.3,Not Hotspot
+Virar,Maharashtra,98,35.1,0.2,Emerging Hotspot
+Virudhunagar,Tamil Nadu,61,12.9,0,Not Hotspot
+Visakhapatnam,Andhra Pradesh,116,54.5,0.8,Established Hotspot
+Vrindavan,Uttar Pradesh,105,53.9,0,Established Hotspot
+Yadgir,Karnataka,66,12.2,0,Not Hotspot
+Yamunanagar,Haryana,137,65.5,1.8,Established Hotspot
